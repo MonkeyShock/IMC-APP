@@ -1,5 +1,6 @@
 # Welcome to Coringa the Gym 👋
 
+**Create by MonkeyShock**
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.google.com/search?q=%5Bhttps://www.npmjs.com/package/create-expo-app%5D\(https://www.npmjs.com/package/create-expo-app\)), developed as a user-friendly Body Mass Index (BMI) calculator.
 
 ## About the App
